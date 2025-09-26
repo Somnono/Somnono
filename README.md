@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Somnono
 
-<!--
-**Somnono/Somnono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Building SaaS products with **PERN** & **MERN**  
+🚀 Passionate about cloud, AI integrations, and scalable applications  
+📍 Open to collaboration & exciting opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
+![Express](https://img.shields.io/badge/Backend-Express-lightgrey)
+
+---
+
+## 🌟 Featured Projects
+- **[Quick AI](https://quick-ai.vercel.app/)** → SaaS app for AI-powered content & resume review (PERN stack)  
+- **[Note App](https://note-app-8ndt.onrender.com/)** → Cloud-based note-taking (MERN stack)  
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Somnono&show_icons=true&theme=tokyonight)
+
+---
+
+📫 **How to reach me** → [LinkedIn](#) | [Email](#)
