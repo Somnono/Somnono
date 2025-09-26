@@ -26,4 +26,4 @@
 
 ---
 
-📫 **How to reach me** → [LinkedIn](#) | [Email](#)
+📫 **How to reach me** → [LinkedIn](https://www.linkedin.com/in/somnono) | [Email]somnono@ymail.com
