@@ -26,4 +26,4 @@
 
 ---
 
-📫 **How to reach me** → [LinkedIn](https://www.linkedin.com/in/somnono) | [Email]somnono@ymail.com
+📫 **How to reach me** → [LinkedIn]www.linkedin.com/in/somnono-mabena | [Email]somnono@ymail.com
