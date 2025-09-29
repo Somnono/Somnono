@@ -1,17 +1,27 @@
-# 👋 Hi, I'm Somnono
+# 👋 Hi, I’m Somnono
 
-💻 Full-Stack Developer | Building SaaS products with **PERN** & **MERN**  
-🚀 Passionate about cloud, AI integrations, and scalable applications  
+💻 Software Developer | 📈 Investment Manager | 🌍 Exploring the intersection of finance & technology  
+
+---
+
+### 🚀 About Me
+- Building **Quick-Ai**, a SaaS project using **PERN stack** (Postgres, Express, React, Node)  
+- Passionate about applying **finance + software engineering** to solve real-world problems  
+- Currently exploring **CI/CD, cloud deployments, and AI integrations**  
 📍 Open to collaboration & exciting opportunities  
 
 ---
 
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-![Express](https://img.shields.io/badge/Backend-Express-lightgrey)
+### 📜 Certifications
+- **Microsoft x Coursera – Foundations of Coding Back-End (2025)**  
+
+---
+
+### ⚡ Tech Stack
+- **Frontend:** React, TailwindCSS  
+- **Backend:** Node.js, Express  
+- **Database:** PostgreSQL, MongoDB  
+- **Cloud/DevOps:** Vercel, Cloudinary, GitHub Actions  
 
 ---
 
