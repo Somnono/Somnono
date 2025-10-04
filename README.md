@@ -12,8 +12,19 @@
 
 ---
 
-### 📜 Certifications
-- **Microsoft x Coursera – Foundations of Coding Back-End (2025)**  
+## 📜 Continuous Learning
+
+I believe in lifelong learning and actively pursue certifications to strengthen my skills in software development.
+
+- 🎓 **Microsoft x Coursera – Foundations of Coding (Back-End)** *(2025)* ✅ Completed  
+- 🚀 **Microsoft Full-Stack Developer Professional Certificate** *(In Progress, 2025)*  
+   - Foundations of Coding Full-Stack ✅  
+   - Introduction to Programming with C# ✅  
+   - Introduction to Web Development 🔄 (4% complete)  
+   - Blazor for Front-End Development ⏳ Not started  
+   - Back-End Development with .NET ✅  
+   - Database Integration and Management 🔄 (14% complete)  
+- 🌱 Upcoming: Advanced .NET projects, Cloud integration (Azure), and Front-End frameworks
 
 ---
 
